@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "pixelpile:block/example_block_slab"
+    },
+    "type=double": {
+      "model": "pixelpile:block/example_block"
+    },
+    "type=top": {
+      "model": "pixelpile:block/example_block_slab_top"
+    }
+  }
+}

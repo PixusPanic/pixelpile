@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "pixelpile:block/sets/norfare/leftwards_dark_steel"
+  }
+}

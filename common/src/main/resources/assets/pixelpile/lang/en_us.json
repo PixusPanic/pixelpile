@@ -1,0 +1,19 @@
+{
+  "itemGroup.pixelpile.example_tab": "Example Tab",
+
+  "item.pixelpile.example_item": "Example Item",
+  "block.pixelpile.example_block": "Example Block",
+  "block.pixelpile.example_block_slab": "Example Block Slab",
+  "block.pixelpile.example_block_stairs": "Example Block Stairs",
+  "block.pixelpile.toad_block": "Toad Block",
+
+  "block.pixelpile.flint_block": "Flint Block",
+  "block.pixelpile.smooth_flint_block": "Smooth Flint Block",
+
+  "block.pixelpile.prefix.norfare": "Norfare",
+  "block.pixelpile.norfare_crossed_dark_steel": "Crossed Dark Steel",
+  "block.pixelpile.norfare_dark_steel": "Dark Steel",
+  "block.pixelpile.norfare_indented_dark_steel": "Indented Dark Steel",
+  "block.pixelpile.norfare_leftwards_dark_steel": "Leftwards Dark Steel",
+  "block.pixelpile.norfare_rightwards_dark_steel": "Rightwards Dark Steel"
+}

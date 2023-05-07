@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "pixelpile",
+  "version": "${version}",
+  "name": "Pixelpile",
+  "description": "This is an example description! Tell everyone what your mod is about!",
+  "authors": [
+    "Me!"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+  "license": "Insert License Here",
+  "icon": "assets/pixelpile/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.pixuspanic.pixelpile.fabric.PixelpileFabric"
+    ]
+  },
+  "depends": {
+    "fabric": "*",
+    "minecraft": ">=1.19.2",
+    "architectury": ">=6.5.77"
+  }
+}
